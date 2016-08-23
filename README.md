@@ -37,14 +37,13 @@
 社群經營與其他有趣專案相關 issue 在這邊追蹤
 https://github.com/moztw/moztw-community/issues
 
+- 「參與我們」表單回覆內容與系統 https://github.com/moztw/contribute-reply-letters
+
 ## 摩茲工寮
 目前相關 issue 寄生在網站 repo 中
 https://github.com/moztw/www.moztw.org/labels/space
 
 ## 等人開發的新專案
-一些等人跳坑的新專案構想，放在本 repo 的 issue 中
+其他等人跳坑的新專案構想，放在本 repo 的 issue 中
 https://github.com/moztw/_good-holes-to-jump/issues
-
-## 其他
-- 「參與我們」表單回覆內容與系統 https://github.com/moztw/contribute-reply-letters
 
