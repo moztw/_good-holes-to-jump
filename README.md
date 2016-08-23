@@ -43,7 +43,7 @@ https://github.com/moztw/www.moztw.org/labels/space
 
 ## 等人開發的新專案
 一些等人跳坑的新專案構想，放在本 repo 的 issue 中
-https://github.com/moztw/holes/issues
+https://github.com/moztw/_good-holes-to-jump/issues
 
 ## 其他
 - 「參與我們」表單回覆內容與系統 https://github.com/moztw/contribute-reply-letters
