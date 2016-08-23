@@ -3,7 +3,9 @@
 
 
 ## 跳坑的第一步
+
 想要找到好坑跳，第一步快快來參與社群
+
 1. 追蹤 Telegram 上的 moztw 頻道，時時注意有什麼新資訊與好坑
 2. 也到 Mozilla 的 [Mozillians](mozillians.org)（摩茲人通訊錄）上註冊一個帳號，建立個人頁面吧
 3. 三不五時來參加工寮每週五的 [MozTW Lab](http://moztw.org/events/moztw-lab) 聚會跟大家認識認識
