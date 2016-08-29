@@ -6,9 +6,9 @@
 
 想要第一時間挖出好坑，就要快快來參與社群，密切追蹤相關訊息
 
-1. 追蹤 Telegram 上的 moztw 頻道，時時注意有什麼好坑
-2. 也到 Mozilla 的 [Mozillians](mozillians.org)（摩茲人通訊錄）上註冊一個帳號，建立個人頁面吧
-3. 三不五時來參加工寮每週五的 [MozTW Lab](http://moztw.org/events/moztw-lab) 聚會跟大家認識認識
+1. 追蹤 [Telegram 上的 moztw 群組](https://moztw.org/tg)，時時注意有什麼好坑
+2. 也到 Mozilla 的 [Mozillians](https://mozillians.org)（摩茲人通訊錄）上註冊一個帳號，建立個人頁面吧
+3. 三不五時來參加工寮每週五的 [MozTW Lab](https://moztw.org/events/moztw-lab) 聚會跟大家認識認識
 4. 在填完坑之後，記得請與你一起合作的人，幫你在 Mozillians 上面背書
 
 
@@ -16,22 +16,22 @@
 # 網站專案
 
 ## 主要網站
-- moztw.org 網站  https://github.com/moztw/www.moztw.org/issues
-- forum.moztw.org 討論區  https://github.com/moztw/forum.moztw.org/issues
+- [moztw.org](https://moztw.org) 網站  https://github.com/moztw/www.moztw.org/issues
+- [forum.moztw.org](https://forum.moztw.org/) 討論區  https://github.com/moztw/forum.moztw.org/issues
 
 ## 其他網站
-- planet.moztw.org 摩茲星球  https://github.com/moztw/planet.moztw.org/issues
-- irclog.moztw.org Telegram #moztw 與 IRC #mozilla-taiwan 頻道紀錄  https://github.com/moztw/irclog.moztw.org/issues
-- folder.moztw.org Hackfolder https://github.com/moztw/hackfoldr-moztw/issues
-- gfx.tw「抓火狐」網站  https://github.com/moztw/gfx.tw/issues
+- [planet.moztw.org](https://planet.moztw.org/) 摩茲星球  https://github.com/moztw/planet.moztw.org/issues
+- [irclog.moztw.org](https://irclog.moztw.org/) Telegram MozTW 群組與 IRC #mozilla-taiwan 頻道紀錄  https://github.com/moztw/irclog.moztw.org/issues
+- [folder.moztw.org](http://folder.moztw.org) Hackfolder https://github.com/moztw/hackfoldr-moztw/issues
+- [gfx.tw](https://gfx.tw) 「抓火狐」網站  https://github.com/moztw/gfx.tw/issues
 - photos.moztw.org 古老的 MozTW 相簿  https://github.com/moztw/photos.moztw.org/issues
 
 ## Web 專案
-- Error 451 嵌入頁面  https://github.com/moztw/TW-Error451-Blackout/issues
+- [Error 451 嵌入頁面](https://moztw.org/events/blackout/)  https://github.com/moztw/TW-Error451-Blackout/issues
 
 ## Web 遊戲
-- Foxmosa 翻牌  https://github.com/moztw/browser-pairs/issues
-- 推星星  https://github.com/moztw/star-pusher/issues
+- [Foxmosa 翻牌](https://moztw.org/foxmosa/game/pairs/)  https://github.com/moztw/browser-pairs/issues
+- [推星星](https://moztw.org/foxmosa/game/stars/)  https://github.com/moztw/star-pusher/issues
 
 
 # 非網站專案
