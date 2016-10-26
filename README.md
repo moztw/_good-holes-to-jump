@@ -6,7 +6,7 @@
 
 想要第一時間挖出好坑，就要快快來參與社群，密切追蹤相關訊息
 
-1. 追蹤 [Telegram 上的 moztw 群組](https://moztw.org/tg)，時時注意有什麼好坑
+1. 追蹤 [Telegram 上的 MozTW 群組](https://moztw.org/tg)，時時注意有什麼好坑
 2. 也到 Mozilla 的 [Mozillians](https://mozillians.org)（摩茲人通訊錄）上註冊一個帳號，建立個人頁面吧
 3. 三不五時來參加工寮每週五的 [MozTW Lab](https://moztw.org/events/moztw-lab) 聚會跟大家認識認識
 4. 在填完坑之後，記得請與你一起合作的人，幫你在 Mozillians 上面背書
